@@ -2,17 +2,6 @@
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6dd789&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Vis%C3%A3o+Computacional;Desenvolvimento+de+Jogos;Desenvolvimento+Mobile" /> </p>
 <br>
-<p align="center">
-  <a href="https://github.com/MarcosV04">
-    <img src="https://img.shields.io/badge/GitHub-MarcosV04-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-camp%C3%AAlo-dos-santos-557114301/">
-    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Vin%C3%ADcius-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vinny8597@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vinny8597-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
