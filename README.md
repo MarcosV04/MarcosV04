@@ -112,9 +112,6 @@ O projeto utiliza reconhecimento das mãos para transformar movimentos e gestos 
 ## `> contato`
 
 <p align="center">
-  <a href="https://github.com/MarcosV04">
-    <img src="https://img.shields.io/badge/GitHub-MarcosV04-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-camp%C3%AAlo-dos-santos-557114301/">
     <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Vin%C3%ADcius-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
