@@ -62,7 +62,7 @@ O projeto utiliza reconhecimento das mãos para transformar movimentos e gestos 
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
 ### Ferramentas
