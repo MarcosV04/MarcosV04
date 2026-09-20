@@ -116,7 +116,7 @@ O projeto utiliza reconhecimento das mãos para transformar movimentos e gestos 
     <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Vin%C3%ADcius-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:vinny8597@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vinny8597-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-vinny-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 ---
