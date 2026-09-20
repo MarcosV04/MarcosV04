@@ -94,15 +94,11 @@ O projeto utiliza reconhecimento das mãos para transformar movimentos e gestos 
 
 ## `> github_stats`
 
+## `> github_stats`
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MarcosV04&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosV04&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://raw.githubusercontent.com/MarcosV04/MarcosV04/main/profile/stats.svg" height="170"/>
+  <img src="https://raw.githubusercontent.com/MarcosV04/MarcosV04/main/profile/top-langs.svg" height="170"/>
 </p>
 
 ---
