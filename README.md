@@ -39,7 +39,7 @@ STATUS
 
 ## `> projects`
 
-### 🎮 AFK — Away From The Keyboard
+### AFK — Away From The Keyboard
 
 Projeto desenvolvido na UTFPR utilizando **visão computacional** para permitir o controle de um jogo através de gestos realizados com as mãos diante da webcam.
 
